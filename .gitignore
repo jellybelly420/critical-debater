@@ -1,5 +1,6 @@
 # Debate workspace outputs (runtime data, not source)
 debate-workspace*/
+debates/
 
 # Claude local settings (machine-specific permissions cache)
 .claude/settings.local.json
